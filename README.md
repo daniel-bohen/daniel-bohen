@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! My name is Daniel Bohen, and I am a computer science student broadly interested in intelligent cyber physical systems. Additionally, 
+My name is Daniel Bohen, and I am a computer science student broadly interested in intelligent cyber physical systems. Additionally, 
 I have a strong interest in the intersection of computer science and medicine, and enjoy using machine learning and automation to assist with 
 medical research projects and clinical tasks. I am currently working at the USC Information Sciences Institute for Dr. Luis Garcia on NeuroIoT. 
 Our project is focusing on the development of robust, explainable decision making systems for deep brain stimulation. In the future, I hope to pursue a PhD in
