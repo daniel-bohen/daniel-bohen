@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Daniel Bohen, and I am a computer science student broadly interested in intelligent cyber physical systems. Additionally, I have a strong interest in the intersection of computer science and medicine, and enjoy using machine learning and automation to assist with medical research projects and clinical tasks. I am currently working at the USC Information Sciences Institute for Dr. Luis Garcia on NeuroIoT. Our project is focusing on the development of robust, explainable decision making systems for deep brain stimulation. In the future, I hope to pursue a PhD in Computer Science with a focus on modeling and control of complex dynamic systems. 
+
+Find out more about me at [danielpbohen.com](danielpbohen.com).
 <!-- 
 ![](https://raw.githubusercontent.com/daniel-bohen/my-github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/daniel-bohen/my-github-stats/master/generated/overview.svg#gh-light-mode-only)
