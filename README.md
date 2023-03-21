@@ -11,7 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Daniel Bohen, and I am a computer science student broadly interested in intelligent cyber physical systems. Additionally, I have a strong interest in the intersection of computer science and medicine, and enjoy using machine learning and automation to assist with medical research projects and clinical tasks. I am currently working at the USC Information Sciences Institute for Dr. Luis Garcia on NeuroIoT. Our project is focusing on the development of robust, explainable decision making systems for deep brain stimulation. In the future, I hope to pursue a PhD in Computer Science with a focus on modeling and control of complex dynamic systems. 
+My name is Daniel Bohen, and I am a computer science student broadly interested in intelligent cyber physical systems. 
+
+I'm currently focused on neurosymbolic programming, trustworthy machine learning, and applying artificial intelligence to resource constrained environments. I am working at the USC Information Sciences Institute for Dr. Luis Garcia on NeuroIoT with a focus on knowledge informed egocentric understanding for safe control systems. Additionally, I am working as a Machine Learning Researcher for Loma Linda University Medical Center on a variety of clinical research projects. 
+
+This summer I will be working for Lockheed Martin's autonoumous helicopter division on perception and path planning. Further, in the future, I hope to pursue a PhD in Computer Science with a focus on neurosymbolic programming and its applications to cyber physical systems. I will also likely continue to work on applying AI to healthcare tasks whenever I can. 
 
 Find out more about me at [danielpbohen.com](https://danielpbohen.com/).
 <!-- 
